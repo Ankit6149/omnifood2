@@ -277,7 +277,7 @@ Instead, 1rem = 1em = 16px */
   }
 
   .cta {
-    grid-template-columns: 1 fr;
+    grid-template-columns: 1fr;
   }
 
   .cta-text-box {
