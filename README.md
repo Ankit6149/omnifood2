@@ -1,25 +1,32 @@
-Omnifood 2.0 🍽️
-Omnifood 2.0 is a responsive web application that allows users to explore and order healthy meals. The project is built using HTML, CSS, and JavaScript to create a modern and user-friendly interface with dynamic features.
+# Omnifood 2.0 🍽️
 
-Features ✨
-Responsive Design 📱💻
-Fully responsive layout that adapts seamlessly to all screen sizes.
+Omnifood 2.0 is a **responsive** web application that lets users explore and order healthy meals. The project is built using **HTML**, **CSS**, and **JavaScript** to create a modern and user-friendly interface with dynamic features.
 
-Smooth Navigation 🧭
-Easy navigation with interactive elements for a user-friendly experience.
+---
 
-Modern UI 🎨
-Clean, minimalist design with smooth animations.
+## Features ✨
 
-Meal Plans 🍲
-View a variety of healthy meal options with detailed information.
+- **Responsive Design** 📱💻  
+  Fully responsive layout that adapts seamlessly to all screen sizes.
 
-Order Functionality 🛒
-Easily select meals and view detailed descriptions.
+- **Smooth Navigation** 🧭  
+  Easy navigation with interactive elements for a user-friendly experience.
 
-Technologies Used ⚙️
-HTML5 🏗️
-CSS3 (with Flexbox and Grid) 🎨
-JavaScript (Vanilla) 💻
-Responsive Design (Media Queries) 📱
-CSS Animations ✨
+- **Modern UI** 🎨  
+  Clean, minimalist design with smooth animations.
+
+- **Meal Plans** 🍲  
+  View a variety of healthy meal options with detailed information.
+
+- **Order Functionality** 🛒  
+  Easily select meals and view detailed descriptions.
+
+---
+
+## Technologies Used ⚙️
+
+- **HTML5** 🏗️
+- **CSS3** (with Flexbox and Grid) 🎨
+- **JavaScript** (Vanilla) 💻
+- **Responsive Design** (Media Queries) 📱
+- **CSS Animations** ✨
